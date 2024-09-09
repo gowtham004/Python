@@ -1,0 +1,22 @@
+data = [
+    {'name': 'Instagram', 'value': 346, 'description': 'A social media platform for sharing photos and videos.', 'country': 'United States'},
+    {'name': 'Cristiano Ronaldo', 'value': 215, 'description': 'A professional footballer who plays for Al Nassr and the Portugal national team.', 'country': 'Portugal'},
+    {'name': 'Ariana Grande', 'value': 183, 'description': 'An American singer, songwriter, and actress known for her four-octave vocal range.', 'country': 'United States'},
+    {'name': 'Facebook', 'value': 280, 'description': 'A social networking service owned by Meta Platforms.', 'country': 'United States'},
+    {'name': 'YouTube', 'value': 300, 'description': 'A video-sharing platform where users can upload, view, and share videos.', 'country': 'United States'},
+    {'name': 'TikTok', 'value': 150, 'description': 'A short-form video hosting service owned by ByteDance.', 'country': 'China'},
+    {'name': 'Lionel Messi', 'value': 200, 'description': 'A professional footballer who plays for Inter Miami and the Argentina national team.', 'country': 'Argentina'},
+    {'name': 'Kylie Jenner', 'value': 180, 'description': 'An American media personality, socialite, and businesswoman, founder of Kylie Cosmetics.', 'country': 'United States'},
+    {'name': 'Selena Gomez', 'value': 170, 'description': 'An American singer, actress, and producer known for her role in "Wizards of Waverly Place".', 'country': 'United States'},
+    {'name': 'Dwayne Johnson', 'value': 190, 'description': 'An American actor, producer, and former professional wrestler known as "The Rock".', 'country': 'United States'},
+    {'name': 'Taylor Swift', 'value': 160, 'description': 'An American singer-songwriter known for her narrative songwriting.', 'country': 'United States'},
+    {'name': 'Neymar', 'value': 140, 'description': 'A professional footballer who plays for Al-Hilal and the Brazil national team.', 'country': 'Brazil'},
+    {'name': 'Kim Kardashian', 'value': 130, 'description': 'An American media personality, socialite, and businesswoman.', 'country': 'United States'},
+    {'name': 'Beyoncé', 'value': 120, 'description': 'An American singer, songwriter, and actress known for her powerful voice and stage presence.', 'country': 'United States'},
+    {'name': 'Justin Bieber', 'value': 110, 'description': 'A Canadian singer known for his hit songs and global popularity.', 'country': 'Canada'},
+    {'name': 'National Geographic', 'value': 100, 'description': 'A global nonprofit organization known for its magazine and documentaries.', 'country': 'United States'},
+    {'name': 'Nike', 'value': 90, 'description': 'A multinational corporation known for its athletic footwear, apparel, and equipment.', 'country': 'United States'},
+    {'name': 'Drake', 'value': 80, 'description': 'A Canadian rapper, singer, and actor known for his chart-topping hits.', 'country': 'Canada'},
+    {'name': 'LeBron James', 'value': 70, 'description': 'An American professional basketball player for the Los Angeles Lakers.', 'country': 'United States'},
+    {'name': 'Billie Eilish', 'value': 60, 'description': 'An American singer-songwriter known for her unique style and voice.', 'country': 'United States'}
+]
