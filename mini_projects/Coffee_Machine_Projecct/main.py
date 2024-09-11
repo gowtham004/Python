@@ -112,4 +112,3 @@ while is_on:
             print("Transaction failed.")
     else:
         print("Not enough resources.")
-
